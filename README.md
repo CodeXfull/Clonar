@@ -1,4 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/CodeXfull/Clonar) ![GitHub](https://img.shields.io/github/license/CodeXfull/Clonar) ![](https://img.shields.io/static/v1?label=teste&message=vermelho&color=red)
+![GitHub top language](https://img.shields.io/github/languages/top/CodeXfull/Clonar)
+![GitHub language count](https://img.shields.io/github/languages/count/CodeXfull/Clonar)
 # Clonar
 ## Aprendendo a clonar repositório
 

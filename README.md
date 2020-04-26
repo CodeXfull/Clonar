@@ -15,6 +15,8 @@ Kazuto Kirigaya é um personagem fictício e protagonista da série de light nov
 # Trabalhando com imagens
 ![Kirito Full](https://github.com/CodeXfull/Clonar/blob/master/ebe2412e6572fe2a25d3752d4fe8b2d3.jpg "vendo qnd passou o mouse")
 
+![Imagem Pequena](https://github.com/CodeXfull/Clonar/blob/master/imagem%20pequena.jpg "Depende do tamanho da imagem")
+
 *Assim para se colocar em itálico*
 
 ## Duas maneiras diferentes de colocar listas

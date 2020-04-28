@@ -8,7 +8,7 @@ Kazuto Kirigaya é um personagem fictício e protagonista da série de light nov
 
 ![Kirito](https://github.com/CodeXfull/Clonar/blob/master/kirito.gif)
 
-[![Curso de Git aprender](http://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](http://www.youtube.com/watch?v=FF1f4bKYhoo "Curso de Git")
+[![Código Fonte TV](http://img.youtube.com/vi/myQuetgSEsY/0.jpg)](http://www.youtube.com/watch?v=myQuetgSEsY "Código Fonte TV")
 
 ### Local para converter vídeo Youtube para markdown: http://embedyoutube.org/
 
